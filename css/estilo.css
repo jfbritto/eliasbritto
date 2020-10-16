@@ -9,3 +9,10 @@
 .navbar-brand {
     font-size: 1.1rem;
 }
+
+@media only screen and (min-width: 0px) and (max-width: 450px) {
+    .cel{
+        text-align: center !important;
+    }
+
+}
